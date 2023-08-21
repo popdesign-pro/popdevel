@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web Developer
 -----------------------
 
-I've been learning to code for 2 years, after switching careers. I started with HTML5 and continue to CSS3 and walkthrough JavaScript, I have passion to GO BIG not to go home ...
+I've been learning to code for 2 years, after switching careers. I started with HTML5 and continue to CSS3 and walkthrough JavaScript, I have a passion to GO BIG not going home ...
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [myPortfolio](http://popdevel.github.io/popWolf/)
+* 🖥️  See my portfolio at [myPortfolio]((https://popdesign-pro.github.io/popdevel/))
 * ✉️  You can contact me at [pop.design@icloud.com](mailto:pop.design@icloud.com)
 * 🧠  I'm learning JavaScript BOM, OOP, JSON.
 
@@ -32,7 +32,7 @@ I've been learning to code for 2 years, after switching careers. I started with 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/popdevel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=popdevel&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/popdesign-pro"><img src="https://github-readme-streak-stats.herokuapp.com/?user=popdevel&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 ![logoImage](https://raw.githubusercontent.com/popdevel/popdevelWithElzero/5b923d933c1e191fd87b002f22322b88ecbd5024/images/pdPrand.svg)
 <details><summary>YOU SHALL NOT PATH</summary>
 <p>
